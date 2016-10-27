@@ -1,0 +1,55 @@
+
+body {
+    
+    margin: 0 auto;
+    font-family: 'Lato', sans-serif;
+    height: auto;
+    width: auto;
+    
+    
+}
+
+#main {
+    
+    margin: auto;
+    height: 100%;
+    width: 100%;
+    color: white;
+    font-size: 150%;
+    text-align: center;
+    color: darkslategray;
+    background-color: white;
+    
+
+}
+
+span {
+    
+    font-size: 160%;
+    color: white;
+    margin-right: 900px;
+    font-weight: bolder;
+}
+
+nav {
+    
+    text-align: center;
+    background-color: darkcyan;
+    padding: 30px;
+    font-size: 100%;
+    
+}
+
+a {
+    
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+    
+}
+
+a:hover {
+    
+    color: black;
+    
+}
