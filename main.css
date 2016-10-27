@@ -1,0 +1,73 @@
+
+body {
+    
+    background-image: url("../images/table.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    font-family: 'Lato', sans-serif;
+    height: 900px;
+    width: auto;
+   
+    
+}
+
+#header {
+    
+    margin: 100px auto;
+    height: 40%;
+    width: 40%;
+    color: white;
+    font-size: 150%;
+    text-align: center;
+    padding-top: 180px;
+    color: darkslategray;
+    
+}
+
+span {
+    
+    font-size: 160%;
+    color: white;
+    margin-right: 900px;
+    font-weight: bolder;
+}
+
+nav {
+    
+    text-align: center;
+    background-color: darkcyan;
+    padding: 30px;
+    font-size: 100%;
+    
+}
+
+#footer {
+    
+    height: 100px;
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    font-size: 30px
+}
+
+a {
+    
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+    
+}
+
+a:hover {
+    
+    color: black;
+    
+}
+
+address {
+    
+    font-family: 'Lato', sans-serif;
+    
+}
+
+
